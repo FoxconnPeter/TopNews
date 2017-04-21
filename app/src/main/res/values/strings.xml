@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Description of the icon that closes the navigation drawer, used by accessibility. -->
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
